@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+trdjango18
+db.sqlite3
+/static
+.DS_Store
